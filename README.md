@@ -1,13 +1,16 @@
-👋 Hi, I’m @Badboixixi77
-🚀 About Me
-👀 I’m interested in UI/UX design, frontend development
-🌱 I’m currently learning Next.js, React, and backend development with node js
-💼 Aspiring full-stack developer building cool projects
-💞️ I’m looking to collaborate on open-source and innovative web projects
-📫 How to Reach Me
+👋 Hi, I'm Maxwell Okosun
+💼 Full-Stack Developer | Next.js · React · Node.js
+I build scalable, performant web applications with clean architecture and pixel-perfect interfaces. Passionate about writing maintainable code and delivering seamless user experiences from front to back.
+🔧 Tech Stack
+
+Frontend: React, Next.js, HTML5, CSS3, JavaScript
+Backend: Node.js, Express
+Tools: Git, GitHub, VS Code
+
+🤝 Open to collaborating on open-source projects and innovative web solutions.
+📫 Let's Connect
+
 🐦 Twitter: @badboixixi
-💼 LinkedIn:okosun maxwell
-📩 Email:okosunmaxwell9@gmail.com
-⚡ Fun Fact
-I started my dev journey with UX design before diving deep into coding—now I blend both to create awesome digital experiences!
+💼 LinkedIn: Okosun Maxwell
+📩 Email: okosunmaxwell9@gmail.com
 
