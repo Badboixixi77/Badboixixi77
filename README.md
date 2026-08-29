@@ -1,6 +1,6 @@
 Maxwell Okosun
 
-Full-Stack Developer · UI/UX Designer · Lagos, Nigeria
+Full-Stack Developer ·Nigeria
 
 I build production-grade web and mobile applications — from architecture to deployment. My work spans fintech platforms, B2B marketplaces, and consumer apps, with a focus on clean code, real-world performance, and interfaces that actually feel good to use.
 
